@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+dist/
+.vercel/
+.env*
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Local development documentation
+CLAUDE.md
+DESIGN.md
+PROJECT_PLAN.md
+
+# Local editor settings
+.vscode/
